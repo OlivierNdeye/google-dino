@@ -1,5 +1,5 @@
 # Google-Dino
-Projeto recriar o jogo classico do Dinossauro Offline
+Projeto com a finalidade de desenvolver um clone do jogo classico do Dinossauro Offline do Google
 ## Conceitos Aplicados
 CSS => Flexbox, Animations. Javascript => removeChild, createElement,
 ## Snapshot
